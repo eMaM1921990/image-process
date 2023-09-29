@@ -1,0 +1,10 @@
+Flask
+gunicorn
+numpy
+opencv-python
+Pillow
+pillow-heif
+rembg
+starlette
+
+
